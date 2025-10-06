@@ -1,0 +1,110 @@
+TCC - DEV:
+
+- Texto explicando o que é um termo restrito - OK
+- Texto explicando que recurso não é editável depois de utilizado - OK
+
+- Identificar páginas - OK
+
+- Acervo de Conteúdos:
+	- Excluir Trilha - OK
+	- Excluir Fase - OK
+	- Tornar trilha principal - OK
+
+- Turmas:
+	- Professor visualiza suas turmas - OK
+	- Professor cria uma nova turma - OK
+	- Professor exclui trilhas existentes - OK
+	- Professor visualiza uma turma específica - OK
+		- Ver a trilha da turma - OK
+		- Editar a trilha da turma - OK
+		- Editar o nome da turma - OK
+		- Ver alunos da turma - OK
+		- Adiciona alunos na turma - OK
+		- Remove alunos da turma - OK
+		- Ver alunos pendentes da turma - OK
+		- Aprova/Rejeita entrada de alunos na turma - OK
+		- Trocar select de usuarios por input texto do username ou email
+
+	- Aluno solicita para entrar na turma - API OK
+	- Aluno sair de uma turma - API OK
+	- Aluno executa trilha de uma turma
+
+- Separar tipo de recurso do tipo de midia - OK
+	- tipos de recurso:
+		- ponto de articulação
+			- imagem
+			- fonológico
+		- configuração de mão
+			- imagem
+			- fonológico 
+		- movimento 
+			- imagem ou video
+			- fonológico
+		- sinal
+			- video
+			- lexical
+		- conceito
+			- imagem ou video
+			- semântico
+	tipos de midia: imagem, video
+
+
+Possibilidades de exercicios: - OK
+	- semantico-semantico;
+	- lexical-lexical;
+	- semantico-lexical
+	- lexical-fonológico
+	- semantico-fonológico
+	- semantico-lexical-fonológico
+
+	- fonológico-fonológico (não deixar)
+
+- Repositório Fonológico - OK
+	- Buscar recursos por tipo de recurso na API - OK
+	- Listar recursos fonologicos na UI - OK
+		- Ponto de Articulação - OK
+		- Configuração de Mão - OK
+		- Movimento - OK
+	- Criar novos recursos - OK
+
+- Recursos do termo:
+	- Alterar select para adicionar recursos fonológicos no Termo - OK
+	- Alterar metodo de remoção de recurso fonológico do termo - OK
+
+
+- Adicionar aspectos pedagogicos no exercicio (lista - a partir do tipo de recurso) - OK
+
+- Exibir contagem de aspectos pedagogicos na fase e na trilha - OK
+
+
+
+
+- Publicação de conteúdo
+
+- Aprovações
+
+------------------------------------
+
+- Repositório Fonológico
+	- Liberar visualização sem estar logado (conhecimento público)
+	- Exibir termos que utilizam cada recurso fonológico
+	- Editar recursos fonológicos editáveis
+	- Remover recursos fonológicos editáveis
+
+
+- Central de Notificações
+
+- Professor acompanha andamento da turma e de um aluno específico
+
+- Perfil
+
+- Setar novos administradores
+
+- Regionalização (lexical - sinal)
+
+TCC - TEXTO:
+
+Antes do sumário:
+	- Lista de figuras (word gera)
+	- Lista de tabelas (word gera)
+	- Lista de abreviaturas e siglas (ordem alfabetica)
