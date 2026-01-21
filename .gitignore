@@ -1,3 +1,5 @@
 libras-dev/
 
 .DS_Store
+
+*.lock
